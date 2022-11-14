@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](./images/desktop-screenshot.png).
-![Mobile Screenshot](./images/mobile-screenshot.png).
+- Desktop Screenshot: [Desktop Screenshot](./images/desktop-screenshot.png).
+- Mobile Screenshot: [Mobile Screenshot](./images/mobile-screenshot.png).
 
 ### Links
 
-- Solution URL: [](https://github.com/Mohammed-Abol-Fotouh/Product-preview-card-component-Frontend-Mentor)
-- Live Site URL: [](https://mohammed-abol-fotouh.github.io/Product-preview-card-component-Frontend-Mentor/)
+- Solution URL: [Solution URL](https://github.com/Mohammed-Abol-Fotouh/Product-preview-card-component-Frontend-Mentor)
+- Live Site URL: [Live Site URL](https://mohammed-abol-fotouh.github.io/Product-preview-card-component-Frontend-Mentor/)
 
 ## My process
 
